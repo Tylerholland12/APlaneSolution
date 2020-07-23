@@ -1,4 +1,5 @@
 me-do-this:
+	go mod tidy
 	go build
 	go install
 

@@ -5,7 +5,9 @@ go 1.14
 require (
 	github.com/PuerkitoBio/goquery v1.5.1
 	github.com/andybalholm/cascadia v1.2.0 // indirect
+	github.com/antchfx/antch v0.0.0-20200531151208-b3a15a669131
 	github.com/antchfx/htmlquery v1.2.3 // indirect
+	github.com/antchfx/jsonquery v1.1.4 // indirect
 	github.com/antchfx/xmlquery v1.2.4 // indirect
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/gocolly/colly v1.2.0
